@@ -1,6 +1,6 @@
 # Monte Carlo Option Pricer (with Variance Reduction)
 
-A clean, well-documented implementation of Monte Carlo pricing for European options under Black–Scholes–Merton (BSM), including variance-reduction techniques and basic Greeks estimation.
+A clean, well-documented implementation of Monte Carlo pricing for European options under Black–Scholes–Merton (BSM), including variance reduction techniques and basic Greeks estimation.
 
 ## Features
 - Plain Monte Carlo and **antithetic variates**
